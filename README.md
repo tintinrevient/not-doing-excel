@@ -2,9 +2,7 @@
 
 ## Overview
 
-<p float="left">
-    <img src="pix/step-1.png" width="800" />
-</p>
+![overview](pix/step-1.png)
 
 ## Install the playground
 
@@ -72,9 +70,8 @@ python push.py
 ## Query the data
 
 Option 1: You can query the data in Superset via http://localhost:8088/sqllab/:
-<p float="left">
-    <img src="pix/superset.png" width="800" />
-</p>
+
+![superset](pix/superset.png)
 
 Option 2: You can query the data in Jupyter via a link that you can find by `docker logs jupyter_notebook`, which looks like http://127.0.0.1:8888/lab?token=xxx. The example code is [in this link](notebooks/test.ipynb).
 
