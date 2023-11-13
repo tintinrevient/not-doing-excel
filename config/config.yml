@@ -1,0 +1,23 @@
+prepare:
+  n_threads: 10
+  base_output_dir: "data/prepared"
+  base_input_dir: "data/raw"
+  ignored_sheet_names:
+    - "How to use this dataset CC"
+    - "How to use this datasheet"
+    - "How to use this Dataset EM"
+    - "How to use this Dataset GS"
+    - "Amendments"
+    - "SOURCE"
+    - "Column Definitions"
+    - "Data Orientation"
+
+push:
+  host: "localhost"
+  port: 5432
+  database: "superset"
+  user: "superset"
+  password: "superset"
+  schema_name: "test"
+  maxconn: 20
+  n_threads: 10

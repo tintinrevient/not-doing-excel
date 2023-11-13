@@ -1,0 +1,11 @@
+.DS_Store
+.cache
+.idea
+.ipython
+.jupyter
+.local
+.npm
+__pycache__
+.ipynb_checkpoints
+venv
+data

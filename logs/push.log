@@ -1,0 +1,6 @@
+2023-11-13 16:50:46 - ERROR - While processing data/prepared/C-EU9.5a.csv, an exception occurs: column "__capex_in_the_reporting_year_for_power_generation_from_this_so" specified more than once
+
+2023-11-13 16:59:25 - ERROR - While processing data/prepared/C4.2b.csv, an exception occurs: column "__target_type__category___metric__target_numerator_if_reporting" specified more than once
+
+2023-11-13 19:46:26 - ERROR - While processing data/prepared/C8.2j.csv, an exception occurs: column "__renewable_electricity_directly_consumed_by_your_organization_" specified more than once
+
