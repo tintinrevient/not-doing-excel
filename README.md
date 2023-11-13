@@ -57,7 +57,7 @@ pip install -r requirements.txt
 > 1. Create the folder `data/raw` under this repo.
 > 2. Copy some Excel files to the above folder.
 
-2. Prepare the data from `xlsx` format to `csv` format, and the `csv` files will be generated under the folder `data/prepared`:
+2. Prepare the data from `xlsx` format to `csv` format, and the CSV files will be generated under the folder `data/prepared`:
 ```bash
 python prepare.py
 ```
