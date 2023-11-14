@@ -4,6 +4,10 @@
 
 ![overview](pix/step-1.png)
 
+## Tech Stack
+
+![overview](pix/techstack.png)
+
 ## Install the playground
 
 1. Start `superset` on port `8088` with `postgresql` database on port `5432` and `jupyter` on port `8888`:
