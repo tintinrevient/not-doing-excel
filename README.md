@@ -6,7 +6,7 @@
 
 ## Tech Stack
 
-![overview](pix/techstack.png)
+![overview](pix/tech-stack.png)
 
 ## Install the playground
 
