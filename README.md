@@ -79,11 +79,11 @@ Option 1: You can query the data in Superset via http://localhost:8088/sqllab/:
 
 Option 2: You can query the data in Jupyter via a link that you can find by `docker logs jupyter_notebook`, which looks like http://127.0.0.1:8888/lab?token=xxx. The example code is [in this link](notebooks/test.ipynb).
 
-## Follow-up Questions
+## Follow-up questions
 
 - Can it be automatic?
 - Can you give examples of "cleaned" and "curated" data?
-- 
+- What tool will you choose to clean the data if you have the freedom?
 
 ## References
 - https://ourworldindata.org/co2-and-greenhouse-gas-emissions
