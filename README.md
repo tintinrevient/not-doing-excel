@@ -82,7 +82,7 @@ Option 2: You can query the data in Jupyter via a link that you can find by `doc
 ## Follow-up questions
 
 - Can it be automatic?
-- Can you give examples of "cleaned" and "curated" data?
+- Can you give examples of "raw" Excel files and PDFs, "cleaned" and "curated" data?
 - What tool will you choose to clean the data if you have the freedom?
 
 ## References
