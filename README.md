@@ -1,11 +1,12 @@
 # NOT Doing Excel
 
-## Overview
-
+## Hmm...
 ![overview](pix/step-1.png)
 
-## Tech Stack
+## Aha!
+![overview](pix/aha.png)
 
+## Tech Stack
 ![overview](pix/tech-stack.png)
 
 ## Install the playground
