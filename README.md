@@ -73,11 +73,11 @@ python push.py
 
 ## Query the data
 
-Option 1: You can query the data in Superset via http://localhost:8088/sqllab/:
+<ins>Option 1</ins>: You can query the data in Superset via http://localhost:8088/sqllab/:
 
 ![superset](pix/superset.png)
 
-Option 2: You can query the data in Jupyter via a link that you can find by `docker logs jupyter_notebook`, which looks like http://127.0.0.1:8888/lab?token=xxx. The example code is [in this link](notebooks/test.ipynb).
+<ins>Option 2</ins>: You can query the data in Jupyter via a link that you can find by `docker logs jupyter_notebook`, which looks like http://127.0.0.1:8888/lab?token=xxx. The example code is [in this link](notebooks/test.ipynb).
 
 ## Follow-up questions
 
