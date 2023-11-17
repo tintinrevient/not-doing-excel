@@ -92,3 +92,4 @@ Option 2: You can query the data in Jupyter via a link that you can find by `doc
 - https://www.databricks.com/glossary/medallion-architecture
 - https://developer.nvidia.com/blog/pandas-dataframe-tutorial-beginners-guide-to-gpu-accelerated-dataframes-in-python/
 - https://github.com/gventuri/pandas-ai
+- https://github.com/fugue-project/fugue
