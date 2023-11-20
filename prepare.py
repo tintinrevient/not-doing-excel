@@ -88,6 +88,10 @@ if __name__ == "__main__":
     ignored_sheet_names = config_map['prepare']['ignored_sheet_names']
     n_threads = config_map['prepare']['n_threads']
 
+    # create the folder 'data/prepared' if it does not exist
+    if not os.path.exists(base_output_dir):
+        os.makedirs(base_output_dir)
+        
     # clean up all the data under the folder 'data/prepared'
     for file in glob.glob(f'{base_output_dir}/*.csv', recursive=True):
         os.remove(file)
