@@ -56,7 +56,7 @@ pip install -r requirements.txt
 > brew install openssl
 > ```
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > If the directory `data/raw` is empty before preparing data, please carry out the following steps:
 > 1. Create the folder `data/raw` under this repo.
