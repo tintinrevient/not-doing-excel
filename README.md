@@ -98,3 +98,5 @@ python push.py
 - https://github.com/gventuri/pandas-ai
 - https://github.com/fugue-project/fugue
 - 😍 [Build a poor man’s data lake from scratch with DuckDB](https://dagster.io/blog/duckdb-data-lake)
+- https://www.pola.rs/benchmarks.html
+- https://h2oai.github.io/db-benchmark/
