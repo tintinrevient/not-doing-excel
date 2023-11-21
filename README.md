@@ -16,6 +16,9 @@
 docker-compose up
 ```
 
+> [!IMPORTANT]
+> You can also follow this official user guide to start superset locally: https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/, as it reflects the latest changes in https://github.com/apache/superset.
+
 > [!NOTE]
 >
 > If you encounter `unable to start container process: exec: "/app/docker/docker-init.sh": permission denied: unknown`, you can do the following:
