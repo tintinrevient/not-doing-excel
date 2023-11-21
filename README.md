@@ -17,7 +17,7 @@ docker-compose up
 ```
 
 > [!IMPORTANT]
-> You can also follow this official user guide to start superset locally: https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/, as it reflects the latest changes in https://github.com/apache/superset.
+> You can also follow [this official user guide](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/) to start superset locally, as it reflects the latest changes in https://github.com/apache/superset.
 
 > [!NOTE]
 >
