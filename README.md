@@ -89,6 +89,11 @@ python push.py
 - Can you give examples of "raw" Excel files and PDFs, "cleaned" and "curated" data?
 - What tool will you choose to clean the data if you have the freedom?
 
+## Other options
+
+- https://github.com/tintinrevient/dagster-poor-mans-data-lake
+- https://github.com/tintinrevient/dagster-with-dbt
+
 ## References
 - https://ourworldindata.org/co2-and-greenhouse-gas-emissions
 - https://github.com/owid/co2-data
