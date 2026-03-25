@@ -1,5 +1,7 @@
 # NOT Doing Excel
 
+Excel is the most "democratic" tool to process, store and share data, as it is used in almost every line of work. From a tech stack perspective, Excel is both a frontend, backend and a database, nice ha? but it is too versatile to enforce data schema and too limited to deal with large quantities of data. It is kinda data craftmanship compared to data factory.
+
 ## Hmm...
 ![overview](pix/step-1.png)
 
